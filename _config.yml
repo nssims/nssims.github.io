@@ -1,11 +1,11 @@
 # Site settings
 author: Nicole Sims
-title: 
+title: Why did I decide to learn Software Engineering 
 header-img: img/home-bg.png
 email: nssims105@gmail.com
 copyright_name: Nicole Sims
 description: > # this means to ignore newlines until "baseurl:"
-  
+  To be or not to be?
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  nssims
